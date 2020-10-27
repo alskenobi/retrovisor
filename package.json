@@ -12,6 +12,6 @@
   "dependencies": {
     "cpu-stat": "^2.0.1",
     "johnny-five": "^0.10.10",
-    "systeminformation": "^3.17.3"
+    "systeminformation": "^4.27.11"
   }
 }
